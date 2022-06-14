@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Welcome to my github
+My name is Maja Nøhr-Nørgaard and I am 23 years old. I am currently studying Computer Science at CPH Business Academy. 📚
 
-<!--
-**majannor/majannor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Workingplace
+Frontend developer at https://place2book.com/da/index
+🤝 Connect with me
+LinkedIn
+Email
+💼 Worked with
+Java, JavaScript, MYSQL, React, C#, Gimp, Blender, HTML og CSS
+Agile software development
+Scrum
+🌱 I'm currently learning
+Nand2Tetris
+Game Devolemnt
+Security

@@ -8,6 +8,7 @@ I am currently studying Computer Science at CPH Business Academy. 📚
 
 ### 🤝 Connect with me
 - <a href="www.linkedin.com/in/maja-nøhr-nørgaard-339967207">LinkedIn</a> 
+- www.linkedin.com/in/maja-nøhr-nørgaard-339967207
 - <a href="maja.norgaard@gmail.com">Email</a>
 
 ### 💼 Worked with

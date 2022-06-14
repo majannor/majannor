@@ -1,4 +1,4 @@
-#### 👋 Welcome to my github
+### 👋 Welcome to my github
 
 My name is Maja Nøhr-Nørgaard and I am 23 years old.
 I am currently studying Computer Science at CPH Business Academy. 📚

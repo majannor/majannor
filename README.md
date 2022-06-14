@@ -7,7 +7,7 @@ I am currently studying Computer Science at CPH Business Academy. 📚
 - Frontend developer at https://place2book.com/da/index
 
 ### 🤝 Connect with me
-- <a href="linkedin.com/in/maja-nøhr-nørgaard-339967207">LinkedIn</a> 
+- <a href="www.linkedin.com/in/maja-nøhr-nørgaard-339967207">LinkedIn</a> 
 - <a href="maja.norgaard@gmail.com">Email</a>
 
 ### 💼 Worked with

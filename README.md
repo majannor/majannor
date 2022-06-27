@@ -19,3 +19,6 @@ I am currently studying Computer Science at CPH Business Academy. 📚
 - Nand2Tetris
 - Security 
 - Ruby on Rails
+
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/PinkOrchid.png" alt="TryHackMe">

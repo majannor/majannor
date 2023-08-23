@@ -17,6 +17,7 @@ Starting on Web develempment 2023 at KEA | KØBENHAVNS ERHVERVSAKADEMI. 📚
 - Scrum
 
 ### 🌱 I'm currently learning
+- PhP
 - React
 - Ruby on Rails
 

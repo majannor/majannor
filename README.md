@@ -1,6 +1,6 @@
 ### 👋 Welcome to my github
 
-My name is Maja Nøhr-Nørgaard and I am 24 years old.
+My name is Maja Nøhr-Nørgaard and I am 25 years old.
 I finished my studying Computer Science at CPH Business Academy 2023. 📚
 Starting on Web develempment 2023 at KEA | KØBENHAVNS ERHVERVSAKADEMI. 📚
 
